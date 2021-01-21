@@ -1,4 +1,4 @@
-# Brenner Swenson - City University of London
+# Youtube Analysis - Brenner Swenson - City University of London
 
 ## Research Questions:
 #### To what extent is the median sentiment of YouTube video comments related to or a predictor of the like to dislike ratio?
